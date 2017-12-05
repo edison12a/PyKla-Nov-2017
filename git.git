@@ -1,5 +1,5 @@
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin <project url>
+git remote add origin https://github.com/SimiCode/PyKla
 git push -f origin master
