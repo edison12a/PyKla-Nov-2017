@@ -8,7 +8,7 @@ with Display():
     # put the rest of our selenium code in a try/finally
     # to make sure we always clean up at the end
     try:
-        browser.get('http://www.google.com')
+        browser.get('https://www.pythonanywhere.com')
         print(browser.title) #this should print "Google"
 
     finally:
