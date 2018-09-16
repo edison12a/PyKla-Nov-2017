@@ -1,4 +1,7 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![HitCount](http://hits.dwyl.io/simicode/PyKla-Nov-2017.svg)](http://hits.dwyl.io/simicode/PyKla-Nov-2017)
 
 INSTRUCTIONS
 ------------
